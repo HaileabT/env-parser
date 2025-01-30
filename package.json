@@ -1,0 +1,33 @@
+{
+  "name": "env-parser",
+  "version": "0.0.0",
+  "description": "This is a simple env parser npm package done from scratch using TypeScript.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haileabt/env-parser.git"
+  },
+  "keywords": [
+    "dotenv",
+    "env",
+    "environment",
+    "variables",
+    "environment variables",
+    "npm",
+    "npm package"
+  ],
+  "author": "Haileab Tesfaye",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/haileabt/env-parser/issues"
+  },
+  "homepage": "https://github.com/haileabt/env-parser#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
